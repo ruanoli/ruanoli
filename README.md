@@ -1,7 +1,6 @@
 ### Hi! I'm Ruan Oliveira 👋
 
-- 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning ReactJS, JS, HTML/CSS
 - 😄 Pronouns: he/his
 
  <div>
