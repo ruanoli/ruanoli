@@ -1,7 +1,6 @@
 ### Hi! I'm Ruan Oliveira 👋
 
-- 🌱 I’m currently learning ReactJS, JS, HTML/CSS
-- 😄 Pronouns: he/his
+- 🌱 I’m currently learning Java, JS, ReactJS, HTML/CSS
 
  <div>
   <a href="https://github.com/ruanoli">
