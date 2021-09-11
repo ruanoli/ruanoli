@@ -1,7 +1,5 @@
 ### Hi! I'm Ruan Oliveira 👋
 
-- 🌱 I’m currently learning Java, JS, ReactJS, HTML/CSS
-
  <div>
   <a href="https://github.com/ruanoli">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ruanoli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,7 +10,7 @@
     <img align="center" alt="Ruan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ruan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Ruan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Ruan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Ruan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
   
   ##
